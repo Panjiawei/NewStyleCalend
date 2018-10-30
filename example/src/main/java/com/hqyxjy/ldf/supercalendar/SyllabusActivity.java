@@ -188,6 +188,7 @@ public class SyllabusActivity extends AppCompatActivity {
         markData.put("2018-10-18", "1");
         markData.put("2018-10-13", "0");
         calendarAdapter.setMarkData(markData);
+
     }
 
     private void initListener() {
