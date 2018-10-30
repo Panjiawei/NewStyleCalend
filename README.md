@@ -24,8 +24,7 @@
 ## 项目链接 [SuperCalendar][Tags]
 
 [Tags]: https://github.com/MagicMashRoom/SuperCalendar
-* 如果你感觉到对你有帮助，欢迎star
-* 如果你感觉对代码有疑惑，或者需要修改的地方，欢迎issue
+
 
 ## 主要特性
 * 日历样式完全自定义，拓展性强
