@@ -1,4 +1,4 @@
-# SuperCalendar
+# NewStyleCalend
 ## ChangeLog
 * 发布1.6 稳定版
 * 发布1.5 修改了一些BUG
